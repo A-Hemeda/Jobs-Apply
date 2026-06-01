@@ -6,8 +6,8 @@
 
 | # | Name | Website |
 |---|--------------|---------|
-| 01 | Sqs | https://www.sqs.com/eg |
-| 02 | SquareCube | http://squarecube |
+| 01 | Speakol | https://cdn.speakol.com/en |
+| 02 | Speakol | http://speakol.com/en |
 | 03 | ScssMe | http://www.scss-me.com |
 | 04 | Brand4It | http://brand4it.com |
 | 05 | ProArtConsulting | http://proartconsulting.net |
@@ -613,7 +613,3 @@
 | 605 | MdcMust | http://mdc-must.com |
 | 606 | SolversTeam | http://solversteam.com |
 | 607 | SpeakersHub | http://speakershub.co |
-| 608 | Speakol | https://cdn.speakol.com/en |
-| 609 | Speakol | http://speakol.com/en |
-| 610 | SsEgypt | http://www.ssegypt.com |
-| 611 | SpotEg | http://www.spoteg.com/home |
