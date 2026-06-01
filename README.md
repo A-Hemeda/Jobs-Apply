@@ -6,6 +6,8 @@
 
 | # | Name | Website |
 |---|--------------|---------|
+| 01 | Sqs | https://www.sqs.com/eg |
+| 02 | SquareCube | http://squarecube |
 | 03 | ScssMe | http://www.scss-me.com |
 | 04 | Brand4It | http://brand4it.com |
 | 05 | ProArtConsulting | http://proartconsulting.net |
@@ -614,6 +616,4 @@
 | 608 | Speakol | https://cdn.speakol.com/en |
 | 609 | Speakol | http://speakol.com/en |
 | 610 | SsEgypt | http://www.ssegypt.com |
-| 611 | SpotEg | http://www.spoteg.com/home/index.html# |
-| 612 | Sqs | https://www.sqs.com/eg/index.php |
-| 613 | SquareCube | http://squarecube.
+| 611 | SpotEg | http://www.spoteg.com/home |
