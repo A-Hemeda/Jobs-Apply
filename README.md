@@ -1,8 +1,6 @@
-# Software Companies and Websites Directory
+# Egyptian Software Companies and Websites Directory
 
-> **Note:** All the companies listed below are located in Cairo, Egypt.
-
-## Directory List:
+> **Directory List:**
 
 | # | Name | Website |
 |---|--------------|---------|
