@@ -6,7 +6,7 @@
 
 | # | Name | Website |
 |---|--------------|---------|
-| 01 | Speakol | https://cdn.speakol.com/en |
+| 01 | MdcMust | http://mdc-must.com |
 | 02 | Speakol | http://speakol.com/en |
 | 03 | ScssMe | http://www.scss-me.com |
 | 04 | Brand4It | http://brand4it.com |
@@ -610,6 +610,3 @@
 | 602 | NileBits | http://www.nilebits.com/careers |
 | 603 | SolutionPulse | https://solutionpulse.com |
 | 604 | SolutionPulse | https://solutionpulse.workable.com |
-| 605 | MdcMust | http://mdc-must.com |
-| 606 | SolversTeam | http://solversteam.com |
-| 607 | SpeakersHub | http://speakershub.co |
