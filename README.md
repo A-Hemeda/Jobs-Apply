@@ -4,7 +4,7 @@
 
 ## Directory List:
 
-| # | English Name | Website |
+| # | Name | Website |
 |---|--------------|---------|
 | 3 | ScssMe | http://www.scss-me.com/ |
 | 4 | Brand4It | http://brand4it.com/ |
